@@ -1,15 +1,15 @@
 # explain
 
 ``
-# git tag -a 2.2.2 -m "Release version 2.2.2"
+git tag -a 2.2.2 -m "Release version 2.2.2"
 
-# git push origin --tags
+ git push origin --tags
 
-# implement update 
+implement update 
 
-# npm update 
+ npm update 
 
-# update -v
+ update -v
 
-# npm publish
+ npm publish
 ``
