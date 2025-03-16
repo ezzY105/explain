@@ -11,9 +11,9 @@ git push origin --tags
 ``
 npm update 
 ``
-``
-update -v
-``
+
+## update -v
+
 ``
 npm publish
 ``
