@@ -8,12 +8,11 @@ git push origin --tags
 
 ## implement update 
 
-``
+```
 npm update 
-``
-
+```
 ## update -v
 
-``
+```
 npm publish
-``
+```
